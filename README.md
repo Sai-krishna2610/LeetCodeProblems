@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [3637-trionic-array-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3640-trionic-array-ii) |
 ## Hash Table
@@ -19,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
