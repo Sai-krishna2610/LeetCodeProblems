@@ -1,14 +1,16 @@
 class Solution {
 public:
-    //bottom up approach
+    //optimized approach
     int climbStairs(int n) {
-        vector<int>dp(n+2,-1);
-        dp[n]=1;
-        dp[n+1]=0;
+        int prev0=1;
+        int prev1=0;
+        int curr=prev0+prev1;
         for(int i=n-1;i>=0;i--)
         {
-            dp[i]=dp[i+1]+dp[i+2];
+            curr=prev0+prev1;
+            prev1=prev0;
+            prev0=curr;
         }
-        return dp[0];
+        return curr;
     }
 };
