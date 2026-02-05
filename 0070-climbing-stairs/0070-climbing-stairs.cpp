@@ -1,7 +1,7 @@
 class Solution {
 public:
-    //recursive approach
-    int climb(int i,int n)
+    //top down approach
+    int climb(int i,int n,vector<int>&dp)
     {
         if(i==n)
         {
@@ -11,9 +11,14 @@ public:
         {
             return 0;
         }
-        return climb(i+1,n)+climb(i+2,n);
+        if(dp[i]!=-1){
+            return dp[i];
+        }
+        return dp[i]=climb(i+1,n,dp)+climb(i+2,n,dp);
     }
     int climbStairs(int n) {
-        return climb(0,n);
+        vector<int>dp(n+2,-1);
+        climb(0,n,dp);
+        return dp[0];
     }
 };
