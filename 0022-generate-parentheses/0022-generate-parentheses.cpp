@@ -20,8 +20,8 @@ public:
         
     }
     vector<string> generateParenthesis(int n) {
-        int left=0,right=0;
-        Parenthsis(n,left,right,"");
+        
+        Parenthsis(n,0,0,"");
         return ans;
     }
 };
