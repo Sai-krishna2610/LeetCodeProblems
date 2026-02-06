@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0015-3sum) |
+| [0051-n-queens](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0198-house-robber) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0051-n-queens) |
 ## Math
 |  |
 | ------- |
