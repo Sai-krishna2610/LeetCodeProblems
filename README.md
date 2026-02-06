@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0746-min-cost-climbing-stairs) |
 | [3379-transformed-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3379-transformed-array) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3640-trionic-array-ii) |
 ## Hash Table
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0075-sort-colors) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3634-minimum-removals-to-balance-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [3634-minimum-removals-to-balance-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3634-minimum-removals-to-balance-array) |
 <!---LeetCode Topics End-->
