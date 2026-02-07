@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0746-min-cost-climbing-stairs) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3640-trionic-array-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3640-trionic-array-ii) |
 ## Linked List
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0022-generate-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Backtracking
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3634-minimum-removals-to-balance-array) |
+## Stack
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
