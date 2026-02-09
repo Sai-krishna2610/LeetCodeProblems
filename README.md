@@ -102,14 +102,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,4 +124,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0078-subsets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1382-balance-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
