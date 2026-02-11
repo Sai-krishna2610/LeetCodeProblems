@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0015-3sum) |
+| [0045-jump-game-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0213-house-robber-ii) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
