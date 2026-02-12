@@ -1,29 +1,21 @@
 class Solution {
 public:
     int longestBalanced(string s) {
-        int n=s.length();
-        int maxLen=0;
-        for(int i=0;i<n;i++)
-        {
+        int n = s.length();
+        int maxLen = 0;
+        for (int i = 0; i < n; i++) {
             vector<int> freq(26, 0);
-            for(int j=i;j<n;j++)
-            {
-                freq[s[j]-'a']++;
-                int count=0;
-                bool valid = true;
-                for(int k=0;k<26;k++)
-                {
-                    if (freq[k] > 0) {
-                        if (count == 0)
-                            count = freq[k];
-                        else if (freq[k] != count) {
-                            valid = false;
-                            break;
-                        }
-                    }
-                }
-                if (valid)
-                maxLen = max(maxLen, j - i + 1);
+            int distinct = 0;
+            int maxFreq = 0;
+            for (int j = i; j < n; j++) {
+                int idx = s[j] - 'a';
+                if (freq[idx] == 0)
+                    distinct++;
+                freq[idx]++;
+                maxFreq = max(maxFreq, freq[idx]);
+                int len = j - i + 1;
+                if (len == distinct * maxFreq)
+                    maxLen = max(maxLen, len);
             }
         }
         return maxLen;
