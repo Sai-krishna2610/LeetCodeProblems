@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1834-single-threaded-cpu](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1834-single-threaded-cpu) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3379-transformed-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3634-minimum-removals-to-balance-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1552-magnetic-force-between-two-balls) |
+| [1834-single-threaded-cpu](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1834-single-threaded-cpu) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3634-minimum-removals-to-balance-array) |
 ## Dynamic Programming
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3713-longest-balanced-substring-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1834-single-threaded-cpu](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1834-single-threaded-cpu) |
 <!---LeetCode Topics End-->
