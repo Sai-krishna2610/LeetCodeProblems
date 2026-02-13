@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0001-two-sum) |
 | [3713-longest-balanced-substring-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3714-longest-balanced-substring-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3714-longest-balanced-substring-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 ## Queue
 |  |
