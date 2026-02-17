@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0061-rotate-list) |
 ## Matrix
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0024-swap-nodes-in-pairs) |
 | [0509-fibonacci-number](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
