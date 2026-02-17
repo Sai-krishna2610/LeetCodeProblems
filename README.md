@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0078-subsets) |
+| [0401-binary-watch](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0401-binary-watch) |
 ## Math
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0222-count-complete-tree-nodes) |
+| [0401-binary-watch](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0401-binary-watch) |
 ## Divide and Conquer
 |  |
 | ------- |
