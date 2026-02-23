@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0169-majority-element) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3713-longest-balanced-substring-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3719-longest-balanced-subarray-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0696-count-binary-substrings) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3714-longest-balanced-substring-ii) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [0401-binary-watch](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0401-binary-watch) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -232,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1834-single-threaded-cpu](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1834-single-threaded-cpu) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
