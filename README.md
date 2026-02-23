@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0278-first-bad-version) |
 | [0875-koko-eating-bananas](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1539-kth-missing-positive-number) |
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
