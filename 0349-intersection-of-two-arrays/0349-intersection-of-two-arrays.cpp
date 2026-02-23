@@ -1,25 +1,17 @@
 /*
-The below approach is using binary search
-Here first we sort one of the array consider nums2 
-then iterate first array then using binarysearch check is it present in nums2 or not 
-then if present store that number and return it
-Time complexity: O((n + m) log m)
-
-we can optimize 
+Here one array we are converting into set and then traversing another and if found save ans set
 */
+
 class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
-
-        sort(nums2.begin(), nums2.end());
-        unordered_set<int> res;
-
-        for (int i = 0; i < nums1.size(); i++) {
-
-            if (binary_search(nums2.begin(), nums2.end(), nums1[i])) {
-                res.insert(nums1[i]);
+        unordered_set<int> st1(nums1.begin(), nums1.end());
+        unordered_set<int> result;
+        for (int num : nums2) {
+            if (st1.count(num)) {
+                result.insert(num);
             }
         }
-        return vector<int>(res.begin(), res.end());
+        return vector<int>(result.begin(), result.end());
     }
 };
