@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0746-min-cost-climbing-stairs) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0696-count-binary-substrings) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
