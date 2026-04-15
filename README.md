@@ -341,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2069-walking-robot-simulation-ii) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
