@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2751-robot-collisions) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3379-transformed-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3379-transformed-array) |
+| [3488-closest-equal-element-queries](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3488-closest-equal-element-queries) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3640-trionic-array-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1980-find-unique-binary-string) |
+| [3488-closest-equal-element-queries](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3488-closest-equal-element-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3719-longest-balanced-subarray-i) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3488-closest-equal-element-queries](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Bit Manipulation
 |  |
