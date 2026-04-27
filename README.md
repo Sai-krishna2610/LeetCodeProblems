@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2751-robot-collisions) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2848-points-that-intersect-with-cars](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2848-points-that-intersect-with-cars) |
+| [3028-ant-on-the-boundary](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3028-ant-on-the-boundary) |
 | [3379-transformed-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3379-transformed-array) |
 | [3488-closest-equal-element-queries](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3488-closest-equal-element-queries) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3634-minimum-removals-to-balance-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2751-robot-collisions](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2751-robot-collisions) |
+| [3028-ant-on-the-boundary](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3028-ant-on-the-boundary) |
 | [3379-transformed-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## String
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2615-sum-of-distances) |
 | [2848-points-that-intersect-with-cars](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2848-points-that-intersect-with-cars) |
+| [3028-ant-on-the-boundary](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3028-ant-on-the-boundary) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3719-longest-balanced-subarray-i) |
