@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2485-find-the-pivot-integer](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2485-find-the-pivot-integer) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1854-maximum-population-year) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2485-find-the-pivot-integer](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2485-find-the-pivot-integer) |
 | [2615-sum-of-distances](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2615-sum-of-distances) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3714-longest-balanced-substring-ii) |
