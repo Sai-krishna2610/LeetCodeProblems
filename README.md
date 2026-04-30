@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3640-trionic-array-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3640-trionic-array-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3225-maximum-score-from-grid-operations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
