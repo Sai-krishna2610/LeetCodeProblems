@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0509-fibonacci-number) |
+| [0788-rotated-digits](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0788-rotated-digits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
