@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0076-minimum-window-substring) |
 | [0657-robot-return-to-origin](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0696-count-binary-substrings) |
+| [0796-rotate-string](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -456,4 +457,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1559-detect-cycles-in-2d-grid) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
