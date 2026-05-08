@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3379-transformed-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3488-closest-equal-element-queries](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3488-closest-equal-element-queries) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3640-trionic-array-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2615-sum-of-distances) |
 | [2848-points-that-intersect-with-cars](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2848-points-that-intersect-with-cars) |
 | [3488-closest-equal-element-queries](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3488-closest-equal-element-queries) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3713-longest-balanced-substring-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3719-longest-balanced-subarray-i) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2485-find-the-pivot-integer](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2485-find-the-pivot-integer) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
@@ -465,8 +468,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0796-rotate-string) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
