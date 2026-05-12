@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1732-find-the-highest-altitude](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1552-magnetic-force-between-two-balls) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1834-single-threaded-cpu](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1834-single-threaded-cpu) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1382-balance-a-binary-search-tree) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2078-two-furthest-houses-with-different-colors) |
