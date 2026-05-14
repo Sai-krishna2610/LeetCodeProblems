@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2848-points-that-intersect-with-cars](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2848-points-that-intersect-with-cars) |
 | [3028-ant-on-the-boundary](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3028-ant-on-the-boundary) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1980-find-unique-binary-string](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1980-find-unique-binary-string) |
 | [2615-sum-of-distances](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2615-sum-of-distances) |
+| [2784-check-if-array-is-good](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2784-check-if-array-is-good) |
 | [2848-points-that-intersect-with-cars](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2848-points-that-intersect-with-cars) |
 | [3488-closest-equal-element-queries](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2463-minimum-total-distance-traveled](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3634-minimum-removals-to-balance-array) |
 ## Dynamic Programming
