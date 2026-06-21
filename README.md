@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1833-maximum-ice-cream-bars](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1834-single-threaded-cpu) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1854-maximum-population-year) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1834-single-threaded-cpu) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1833-maximum-ice-cream-bars](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -533,4 +536,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
