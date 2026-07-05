@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1301-number-of-paths-with-max-score](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0788-rotated-digits) |
+| [1301-number-of-paths-with-max-score](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0304-range-sum-query-2d-immutable) |
+| [1301-number-of-paths-with-max-score](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1582-special-positions-in-a-binary-matrix) |
