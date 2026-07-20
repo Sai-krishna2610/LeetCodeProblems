@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1260-shift-2d-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1306-jump-game-iii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0304-range-sum-query-2d-immutable) |
+| [1260-shift-2d-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
