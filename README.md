@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0724-find-pivot-index) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0213-house-robber-ii) |
 | [0396-rotate-function](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0788-rotated-digits) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0788-rotated-digits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0024-swap-nodes-in-pairs) |
+| [0486-predict-the-winner](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -621,4 +625,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
