@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1140-stone-game-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1301-number-of-paths-with-max-score) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1140-stone-game-ii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1140-stone-game-ii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
@@ -644,4 +648,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
