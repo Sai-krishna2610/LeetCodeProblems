@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
