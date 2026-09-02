@@ -3,6 +3,9 @@ using namespace std;
 int main()
 {
     //pattern1
+    cout<<endl;
+    cout<<endl;
+    cout<<"---------------- Pattern 1 -----------------------"<<endl;
     for(int i=0;i<5;i++)
     {
         for(int j=0;j<5;j++)
@@ -15,6 +18,9 @@ int main()
 
 
     //Patern 2
+    cout<<endl;
+    cout<<endl;
+    cout<<"---------------- Pattern 2 -----------------------"<<endl;
     for(int i=0;i<5;i++)
     {
         for(int j=0;j<=i;j++)
@@ -27,30 +33,39 @@ int main()
 
 
     //patern 3
+    cout<<endl;
+    cout<<endl;
+    cout<<"---------------- Pattern 3-----------------------"<<endl;
     for(int i=1;i<6;i++)
     {
         for(int j=1;j<=i;j++)
         {
             cout<<j<<" ";
         }
-        cout<<end;
+        cout<<endl;
     }
 
 
 
     //patern 4
+    cout<<endl;
+    cout<<endl;
+    cout<<"---------------- Pattern 4 -----------------------"<<endl;
     for(int i=1;i<6;i++)
     {
         for(int j=1;j<=i;j++)
         {
             cout<<i<<" ";
         }
-        cout<<end;
+        cout<<endl;
     }
 
 
 
     //pattern 5
+    cout<<endl;
+    cout<<endl;
+    cout<<"---------------- Pattern 5 -----------------------"<<endl;
     for(int i=5;i>=0;i--)
     {
         for(int j=0;j<i;j++)
@@ -63,6 +78,9 @@ int main()
 
 
     //pattern 6
+    cout<<endl;
+    cout<<endl;
+    cout<<"---------------- Pattern 6 -----------------------"<<endl;
     for(int i=5;i>=0;i--)
     {
         for(int j=1;j<=i;j++)
@@ -75,6 +93,9 @@ int main()
 
 
     //pattern 7
+    cout<<endl;
+    cout<<endl;
+    cout<<"---------------- Pattern 7 -----------------------"<<endl;
     for(int i=0;i<5;i++)
     {
         for(int j=0;j<5-i;j++)
@@ -91,6 +112,9 @@ int main()
 
 
     //pattern 8
+    cout<<endl;
+    cout<<endl;
+    cout<<"---------------- Pattern 8 -----------------------"<<endl;
     for(int i=5;i>0;i--)
     {
         for(int j=5-i;j>0;j--)
@@ -108,6 +132,9 @@ int main()
 
 
     //Pattern 9
+    cout<<endl;
+    cout<<endl;
+    cout<<"---------------- Pattern 9 -----------------------"<<endl;
     for(int i=0;i<5;i++)
     {
         for(int j=0;j<5-i;j++)
@@ -137,6 +164,9 @@ int main()
 
 
     //pattern 10
+    cout<<endl;
+    cout<<endl;
+    cout<<"---------------- Pattern 10 -----------------------"<<endl;
     for(int i=0;i<5;i++)
     {
         for(int j=0;j<=i;j++)
@@ -159,6 +189,9 @@ int main()
 
 
     //pattern 11
+    cout<<endl;
+    cout<<endl;
+    cout<<"---------------- Pattern 11 -----------------------"<<endl;
     for(int i=0;i<5;i++)
     {
         for(int j=0;j<=i;j++)
@@ -179,6 +212,9 @@ int main()
 
 
     //Pattern 12
+    cout<<endl;
+    cout<<endl;
+    cout<<"---------------- Pattern 12 -----------------------"<<endl;
     for(int i=1;i<5;i++)
     {
         int k=1;
@@ -203,6 +239,9 @@ int main()
 
 
     //pattern 13
+    cout<<endl;
+    cout<<endl;
+    cout<<"---------------- Pattern 13 -----------------------"<<endl;
     int inc=1;
     for(int i=0;i<5;i++)
     {
@@ -217,6 +256,9 @@ int main()
 
 
     //pattern 14
+    cout<<endl;
+    cout<<endl;
+    cout<<"---------------- Pattern 14 -----------------------"<<endl;
      for (int i = 1; i <= 5; i++) {
         for (char ch = 'A'; ch < 'A' + i; ch++) {
             cout << ch;
@@ -227,6 +269,9 @@ int main()
 
 
     //pattern 15
+    cout<<endl;
+    cout<<endl;
+    cout<<"---------------- Pattern 15 -----------------------"<<endl;
     for (int i = 5; i >= 1; i--) {
         for (char ch = 'A'; ch < 'A' + i; ch++) {
             cout << ch;
@@ -238,6 +283,9 @@ int main()
 
 
     //pattern 16
+    cout<<endl;
+    cout<<endl;
+    cout<<"---------------- Pattern 16 -----------------------"<<endl;
     for (int i = 1; i <= 4; i++) {
         for (int j = 1; j <= i; j++) {
             cout << char('A' + i - 1);
@@ -248,6 +296,9 @@ int main()
 
 
     //pattern 17
+    cout<<endl;
+    cout<<endl;
+    cout<<"---------------- Pattern 17 -----------------------"<<endl;
     for (int i = 1; i <= 4; i++) {
         // Spaces
         for (int j = 1; j <= 4 - i; j++) {
@@ -267,6 +318,9 @@ int main()
 
 
     //pattern 18
+    cout<<endl;
+    cout<<endl;
+    cout<<"---------------- Pattern 19 -----------------------"<<endl;
     for (int i = 5; i >= 1; i--) {
         for (char ch = 'A' + i - 1; ch <= 'E'; ch++) {
             cout << ch;
@@ -275,6 +329,11 @@ int main()
     }
 
 
+
+    //pattern 19
+    cout<<endl;
+    cout<<endl;
+    cout<<"---------------- Pattern 19 -----------------------"<<endl;
     for (int i = 1; i <= 5; i++) {
         for (int j = 1; j <= 5 - i; j++) {
             cout << "*";
@@ -302,7 +361,10 @@ int main()
 
 
 
-
+    //pattern 20
+    cout<<endl;
+    cout<<endl;
+    cout<<"---------------- Pattern 20 -----------------------"<<endl;
     for (int i = 1; i <= 4; i++) {
         for (int j = 1; j <= i; j++)
             cout << "*";
@@ -327,6 +389,11 @@ int main()
 
 
 
+
+    //patern 21
+    cout<<endl;
+    cout<<endl;
+    cout<<"---------------- Pattern 21 -----------------------"<<endl;
     for (int i = 1; i <= 4; i++) {
         for (int j = 1; j <= 4; j++) {
             if (i == 1 || i == 4 || j == 1 || j == 4)
@@ -339,6 +406,11 @@ int main()
 
 
 
+
+    //pattern 22
+    cout<<endl;
+    cout<<endl;
+    cout<<"---------------- Pattern 22 -----------------------"<<endl;
     int size = 7;
     for (int i = 0; i < size; i++) {
         for (int j = 0; j < size; j++) {
