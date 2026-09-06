@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0213-house-robber-ii) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0115-distinct-subsequences) |
 | [0316-remove-duplicate-letters](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0316-remove-duplicate-letters) |
 | [0657-robot-return-to-origin](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0696-count-binary-substrings) |
