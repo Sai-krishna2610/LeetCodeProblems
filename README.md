@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0283-move-zeroes) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0316-remove-duplicate-letters) |
 | [0657-robot-return-to-origin](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0696-count-binary-substrings) |
