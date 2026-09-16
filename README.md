@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1872-stone-game-viii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1140-stone-game-ii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1872-stone-game-viii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1872-stone-game-viii) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1854-maximum-population-year) |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Monotonic Stack
