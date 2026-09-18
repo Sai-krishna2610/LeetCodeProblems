@@ -1,11 +1,8 @@
 class Solution:
 
     def reverse(self, nums, low, high):
-
         while low < high:
-
             nums[low], nums[high] = nums[high], nums[low]
-
             low += 1
             high -= 1
 
