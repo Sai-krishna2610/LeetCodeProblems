@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0303-range-sum-query-immutable) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0486-predict-the-winner) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -681,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -724,4 +728,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1872-stone-game-viii) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
