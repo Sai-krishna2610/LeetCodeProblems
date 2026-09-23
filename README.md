@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0877-stone-game) |
