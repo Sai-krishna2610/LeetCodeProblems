@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0874-walking-robot-simulation) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1096-brace-expansion-ii) |
 | [1345-jump-game-iv](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1096-brace-expansion-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1096-brace-expansion-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0401-binary-watch) |
+| [1096-brace-expansion-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1096-brace-expansion-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2751-robot-collisions) |
@@ -682,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
