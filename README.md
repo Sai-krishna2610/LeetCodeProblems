@@ -777,4 +777,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
