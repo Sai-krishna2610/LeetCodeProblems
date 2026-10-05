@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0724-find-pivot-index) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0441-arranging-coins) |
+| [0493-reverse-pairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0493-reverse-pairs) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0493-reverse-pairs) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -772,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Combinatorics
 |  |
@@ -834,4 +839,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
