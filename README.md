@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1345-jump-game-iv) |
