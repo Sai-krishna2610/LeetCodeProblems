@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2751-robot-collisions) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2848-points-that-intersect-with-cars](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2848-points-that-intersect-with-cars) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3499-maximize-active-section-with-trade-i) |
