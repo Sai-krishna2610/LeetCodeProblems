@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3903-smallest-stable-index-i) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
