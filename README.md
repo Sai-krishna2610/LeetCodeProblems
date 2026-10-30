@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3838-weighted-word-mapping](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1834-single-threaded-cpu) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -905,4 +908,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0493-reverse-pairs) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
