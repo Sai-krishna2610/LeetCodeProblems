@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3660-jump-game-ix) |
+| [3665-twisted-mirror-path-count](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3640-trionic-array-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3640-trionic-array-ii) |
 | [3660-jump-game-ix](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3660-jump-game-ix) |
+| [3665-twisted-mirror-path-count](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3665-twisted-mirror-path-count) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
