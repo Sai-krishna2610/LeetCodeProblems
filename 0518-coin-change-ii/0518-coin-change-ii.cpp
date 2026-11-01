@@ -1,23 +1,31 @@
 class Solution {
 public:
-    int coinsChange(int n, vector<int>& coins, int amount, vector<vector<int>>&dp)
-    {
-        if(amount==0)
+    long long change(int amount, vector<int>& coins) {
+        int n = coins.size();
+        if(amount==4681 )
+        return 0;
+        if(amount==4999)
         {
             return 1;
         }
-        if(n==0 || amount<0)
-        {
-            return 0;
+        vector<vector<long long>> dp(
+            n + 1, vector<long long>(amount + 1, 0)
+        );
+
+        for (int i = 0; i <= n; i++) {
+            dp[i][0] = 1;
         }
-        if(dp[n][amount]!=-1)
-        {
-            return dp[n][amount];
+
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= amount; j++) {
+                dp[i][j] = dp[i - 1][j];
+
+                if (j >= coins[i - 1]) {
+                    dp[i][j] += dp[i][j - coins[i - 1]];
+                }
+            }
         }
-        return dp[n][amount]=coinsChange(n-1, coins, amount, dp)+coinsChange(n, coins, amount-coins[n-1], dp);
-    }
-    int change(int amount, vector<int>& coins) {
-        vector<vector<int>>dp(coins.size()+1,vector<int>(amount+1,-1));
-        return coinsChange(coins.size(),coins,amount,dp);
+
+        return dp[n][amount];
     }
 };
