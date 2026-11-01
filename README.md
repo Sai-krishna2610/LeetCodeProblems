@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0322-coin-change](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0396-rotate-function) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0509-fibonacci-number) |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1345-jump-game-iv) |
@@ -922,9 +925,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
