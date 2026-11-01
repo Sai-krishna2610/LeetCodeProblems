@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0493-reverse-pairs) |
+| [0518-coin-change-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0704-binary-search) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0788-rotated-digits) |
@@ -915,4 +917,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
