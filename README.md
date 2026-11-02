@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0493-reverse-pairs) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0509-fibonacci-number) |
