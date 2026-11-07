@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1854-maximum-population-year) |
 | [1861-rotating-the-box](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1861-rotating-the-box) |
 | [1872-stone-game-viii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1882-process-tasks-using-servers) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [1834-single-threaded-cpu](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1834-single-threaded-cpu) |
+| [1882-process-tasks-using-servers](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3691-maximum-total-subarray-value-ii) |
