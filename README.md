@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1267-count-servers-that-communicate) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
+| [1046-last-stone-weight](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1046-last-stone-weight) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1834-single-threaded-cpu](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1834-single-threaded-cpu) |
 | [1882-process-tasks-using-servers](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1882-process-tasks-using-servers) |
