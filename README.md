@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0303-range-sum-query-immutable) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Counting
@@ -801,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1046-last-stone-weight) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -997,5 +1001,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
