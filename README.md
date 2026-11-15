@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0301-remove-invalid-parentheses](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
