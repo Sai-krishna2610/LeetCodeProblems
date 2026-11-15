@@ -14,7 +14,6 @@ public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
         if(!root)
         {
-            vector<int>ans;
             return {};
         }
         TreeNode* temp=root;
@@ -25,13 +24,14 @@ public:
         bool leftToright=true;
         while(!st1.empty() || !st2.empty())
         {
-            int n=st1.size();
+            
             if(leftToright){
-                vector<int>subAns;
+                int n=st1.size();
+                vector<int>level;
                 for(int i=0;i<n;i++)
                 {
                     TreeNode* temp=st1.top();
-                    subAns.push_back(temp->val);
+                    level.push_back(temp->val);
 
                     st1.pop();
                     if(temp->left)
@@ -43,17 +43,17 @@ public:
                         st2.push(temp->right);
                     }
                 }
-                ans.push_back(subAns);
+                ans.push_back(level);
                 leftToright=false;
             }
             else
             {
                 int n=st2.size();
-                vector<int>subAns;
+                vector<int>level;
                 for(int i=0;i<n;i++)
                 {
                     TreeNode* temp=st2.top();
-                    subAns.push_back(temp->val);
+                    level.push_back(temp->val);
 
                     st2.pop();
                     if(temp->right)
@@ -66,7 +66,7 @@ public:
                         st1.push(temp->left);
                     }
                 }
-                ans.push_back(subAns);
+                ans.push_back(level);
                 leftToright=true;
             }
         }
