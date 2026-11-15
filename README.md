@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0856-score-of-parentheses) |
@@ -910,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -1006,5 +1009,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
