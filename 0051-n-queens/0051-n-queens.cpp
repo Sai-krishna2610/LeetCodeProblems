@@ -2,12 +2,15 @@ class Solution {
 public:
     vector<vector<string>> ans;
     bool check(vector<string>& board, int row, int col, int n) {
+        //Check upper-left diagonal, Move diagonally upward and left from the current position
         for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
             if (board[i][j] == 'Q') return false;
         }
+        //Check the same column (vertically upward)
         for (int i = row - 1; i >= 0; i--) {
             if (board[i][col] == 'Q') return false;
         }
+        //Check upper-right diagonal,  Move diagonally upward and right from the current position.
         for (int i = row - 1, j = col + 1; i >= 0 && j < n; i--, j++) {
             if (board[i][j] == 'Q') return false;
         }
