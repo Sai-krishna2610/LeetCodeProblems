@@ -1016,4 +1016,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
