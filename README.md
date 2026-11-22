@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sai-krishna2610/LeetCodeProblems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
