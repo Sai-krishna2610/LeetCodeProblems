@@ -1,55 +1,54 @@
 class Solution {
 public:
     int minimumTime(int n, vector<vector<int>>& relations, vector<int>& time) {
-
-        vector<int> inDeg(n+1, 0);
-        vector<vector<int>> adj(n+1);
-
-        for(int i = 0; i < relations.size(); i++)
+        vector<int>adj[n];
+        for(int i=0;i<relations.size();i++)
         {
-            int first = relations[i][0];
-            int second = relations[i][1];
-
-            adj[first].push_back(second);
-            inDeg[second]++;
+            //convert them into 0 based indexing
+            adj[relations[i][0]-1].push_back(relations[i][1]-1);
         }
 
-        queue<int> q;
-
-        vector<int> dp(n+1, 0);
-
-        for(int i = 1; i <= n; i++)
+        vector<int>InDeg(n,0);
+        for(int i=0;i<n;i++ )
         {
-            if(inDeg[i] == 0)
+            for(int j=0;j<adj[i].size();j++)
+            {
+                InDeg[adj[i][j]]++;
+            }
+        }
+        queue<int>q;
+        for(int i=0;i<n;i++)
+        {
+            if(!InDeg[i])
             {
                 q.push(i);
-                dp[i] = time[i-1];
             }
         }
 
-        int ans = 0;
+        // maximum time to complete previous course
+        vector<int>courseTime(n,0);
 
         while(!q.empty())
         {
-            int node = q.front();
+            int node=q.front();
             q.pop();
-
-            ans = max(ans, dp[node]);
-
-            for(int neighbour : adj[node])
+            for(int j=0;j<adj[node].size();j++)
             {
-                dp[neighbour] = max(dp[neighbour],
-                                    dp[node] + time[neighbour-1]);
-
-                inDeg[neighbour]--;
-
-                if(inDeg[neighbour] == 0)
+                InDeg[adj[node][j]]--;
+                if(!InDeg[adj[node][j]])
                 {
-                    q.push(neighbour);
+                    q.push(adj[node][j]);
                 }
+
+                //maximum time to complete previous course+present course time
+                courseTime[adj[node][j]]=max(courseTime[adj[node][j]], courseTime[node]+time[node]);
             }
         }
-
-        return ans;
+        int ans=0;
+        for(int i=0;i<n;i++)
+        {
+            ans=max(ans,courseTime[i]+time[i]);
+        }
+    return ans;
     }
 };
